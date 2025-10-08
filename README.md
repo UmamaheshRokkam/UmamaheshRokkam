@@ -1,11 +1,11 @@
 <!-- 🌊 Animated Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3500&pause=1500&color=EA1B73&center=true&vCenter=true&width=800&lines=Hi,+I+am+Uma+Maheswararao!;VLSI+Design+Engineer;FPGA+Prototyping+Enthusiast;Open+to+Collaboration!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3500&pause=1500&color=EA1B73&center=true&vCenter=true&width=800&lines=Hi,+I+am+Uma+Maheswararao!;Aspiring+VLSI+Design+Engineer;FPGA+Prototyping+Enthusiast;Open+to+Collaboration!" />
 </p>
 
 <!-- 🌐 Animated SVG Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome+to+My+Lab&fontSize=60&fontAlignY=40&desc=Innovative+Hardware+Engineer&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome+to+My+Lab&fontSize=60&fontAlignY=40&desc=Aspiring+VLSI+Design+Engineer&descAlignY=65" width="100%"/>
 </p>
 
 # 👋 Welcome to My GitHub
