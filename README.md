@@ -19,7 +19,7 @@ I am **Uma Maheswararao**, a passionate VLSI Design Engineer skilled in digital 
 
 <p align="left">
   <a href="mailto:rumamahesh212@gmail.com"><img src="https://img.shields.io/badge/Email-rumamahesh212@gmail.com-EA1B73?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/rokkamuma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rokkamuma-0072b1?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/umamahehrokkam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rokkamuma-0072b1?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/UmaMaheswararao" target="_blank"><img src="https://img.shields.io/badge/GitHub-UmaMaheswararao-black?style=for-the-badge&logo=github"></a>
   <img src="https://img.shields.io/badge/Location-Srikakulam,%20AP-16A085?style=for-the-badge"/>
 </p>
