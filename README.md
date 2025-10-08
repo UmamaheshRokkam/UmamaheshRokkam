@@ -20,7 +20,7 @@ I am **Uma Maheswararao**, a passionate VLSI Design Engineer skilled in digital 
 <p align="left">
   <a href="mailto:rumamahesh212@gmail.com"><img src="https://img.shields.io/badge/Email-rumamahesh212@gmail.com-EA1B73?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/umamahehrokkam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rokkamuma-0072b1?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/UmaMaheswararao" target="_blank"><img src="https://img.shields.io/badge/GitHub-UmaMaheswararao-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/UmamaheshRokkam" target="_blank"><img src="https://img.shields.io/badge/GitHub-UmaMaheswararao-black?style=for-the-badge&logo=github"></a>
   <img src="https://img.shields.io/badge/Location-Srikakulam,%20AP-16A085?style=for-the-badge"/>
 </p>
 
@@ -85,9 +85,9 @@ _CGPA: 9.27 | Graduation: May 2026_
 
 <!-- 📈 GitHub Stats, Streaks, Activity with animation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmaMaheswararao&show_icons=true&hide=issues&theme=radical" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmaMaheswararao&theme=radical" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmaMaheswararao&theme=monokai">
+  <img src="https://github-readme-stats.vercel.app/api?username=UmamaheshRokkam&show_icons=true&hide=issues&theme=radical" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmamaheshRokkam&theme=radical" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmamaheshRokkam&theme=monokai">
 </p>
 
 <!-- 🌠 Animated PCB themed SVG divider -->
@@ -97,7 +97,7 @@ _CGPA: 9.27 | Graduation: May 2026_
 
 <!-- 👀 Animated Visitor Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UmaMaheswararao&style=for-the-badge&color=EA1B73">
+  <img src="https://komarev.com/ghpvc/?username=UmamaheshRokkam&style=for-the-badge&color=EA1B73">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/>
 </p>
 
