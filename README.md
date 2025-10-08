@@ -15,7 +15,16 @@ I am **Uma Maheswararao**, a passionate VLSI Design Engineer skilled in digital 
 
 ---
 
-## 📫 Contact Me
+<!-- 🪩 Shimmer gradient divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12&section=header"/>
+</p>
+
+<!-- Animated Typing SVG for Section Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=2F85ED&center=true&width=800&lines=Contact+Me" alt="Typing SVG" />
+</p>
+
 
 <p align="left">
   <a href="mailto:rumamahesh212@gmail.com"><img src="https://img.shields.io/badge/Email-rumamahesh212@gmail.com-EA1B73?style=for-the-badge&logo=gmail"></a>
@@ -31,19 +40,38 @@ I am **Uma Maheswararao**, a passionate VLSI Design Engineer skilled in digital 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12&section=header"/>
 </p>
 
-## 🧠 Skills & Technologies
-
+<!-- Animated Typing SVG for Section Title -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=verilog,systemverilog,c,java,vivado,matlab,github,linux" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=2F85ED&center=true&width=800&lines=Skills+and+Technologies" alt="Typing SVG" />
 </p>
 
-- **Specialization:** Digital/Analog Design, RTL-to-GDSII, Static Timing Analysis, RISC-V, Processor Architecture
-- **Core Tools:** Cadence Virtuoso, Xilinx Vivado, MATLAB, ModelSim
+<p align="center">
+  <!-- Supported icons from skillicons -->
+  <img src="https://skillicons.dev/icons?i=c,java,github" />
+</p>
+
+<p align="center">
+  <!-- Shields for VLSI/EDA tools -->
+  <img src="https://img.shields.io/badge/Verilog-DD0031?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SystemVerilog-4B0082?style=for-the-badge" />
+</p>
+
+- **Specialization:** Digital/Analog Design, RTL-to-GDSII, Static Timing Analysis, RISC-V,Communication Protocols
+- **Core Tools:** Cadence Virtuoso, Xilinx Vivado, EDA Playground
 - **Soft Skills:** Fast learning, Critical thinking, Technical leadership
 
 ---
 
-## 👨‍🎓 Education
+<!-- 🪩 Shimmer gradient divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12&section=header"/>
+</p>
+
+<!-- Animated Typing SVG for Section Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=2F85ED&center=true&width=800&lines=Education" alt="Typing SVG" />
+</p>
+
 
 **B.Tech. Electronics & Communication Engineering**  
 _GMR Institute of Technology, Rajam (JNTU-GV)_  
@@ -51,7 +79,15 @@ _CGPA: 9.27 | Graduation: May 2026_
 
 ---
 
-## 🚩 Featured Projects
+<!-- 🪩 Shimmer gradient divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12&section=header"/>
+</p>
+
+<!-- Animated Typing SVG for Section Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=2F85ED&center=true&width=800&lines=Featured+Projects" alt="Typing SVG" />
+</p>
 
 - **High-Speed 8x8 Radix-4 Booth Multiplier:**  
   - Booth recoding & CLA integration for speed optimization
@@ -62,7 +98,16 @@ _CGPA: 9.27 | Graduation: May 2026_
 
 ---
 
-## 🏅 Certifications & Achievements
+<!-- 🪩 Shimmer gradient divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12&section=header"/>
+</p>
+
+<!-- Animated Typing SVG for Section Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=2F85ED&center=true&width=800&lines=Certifications" alt="Typing SVG" />
+</p>
+
 
 - **Cadence Analog IC Design Flow**  
 - **NPTEL VLSI Design: RTL to GDS Flow**  
@@ -73,7 +118,16 @@ _CGPA: 9.27 | Graduation: May 2026_
 
 ---
 
-## 🌐 Languages
+<!-- 🪩 Shimmer gradient divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12&section=header"/>
+</p>
+
+<!-- Animated Typing SVG for Section Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=2F85ED&center=true&width=800&lines=Languages" alt="Typing SVG" />
+</p>
+
 
 ![English](https://img.shields.io/badge/English-Professional-2F85ED?style=for-the-badge)
 ![Telugu](https://img.shields.io/badge/Telugu-Native-DE3163?style=for-the-badge)
