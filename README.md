@@ -15,16 +15,7 @@ I am **Uma Maheswararao**, a passionate VLSI Design Engineer skilled in digital 
 
 ---
 
-<!-- 🪩 Shimmer gradient divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12&section=header"/>
-</p>
-
-<!-- Animated Typing SVG for Section Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=2F85ED&center=true&width=800&lines=Contact+Me" alt="Typing SVG" />
-</p>
-
+# 📞 Contact Me
 
 <p align="left">
   <a href="mailto:rumamahesh212@gmail.com"><img src="https://img.shields.io/badge/Email-rumamahesh212@gmail.com-EA1B73?style=for-the-badge&logo=gmail"></a>
@@ -34,16 +25,7 @@ I am **Uma Maheswararao**, a passionate VLSI Design Engineer skilled in digital 
 </p>
 
 ---
-
-<!-- 🪩 Shimmer gradient divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12&section=header"/>
-</p>
-
-<!-- Animated Typing SVG for Section Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=2F85ED&center=true&width=800&lines=Skills+and+Technologies" alt="Typing SVG" />
-</p>
+# 🏗️Skills & Technologies 
 
 <p align="center">
   <!-- Supported icons from skillicons -->
@@ -62,16 +44,7 @@ I am **Uma Maheswararao**, a passionate VLSI Design Engineer skilled in digital 
 
 ---
 
-<!-- 🪩 Shimmer gradient divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12&section=header"/>
-</p>
-
-<!-- Animated Typing SVG for Section Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=2F85ED&center=true&width=800&lines=Education" alt="Typing SVG" />
-</p>
-
+# 🏫 Education
 
 **B.Tech. Electronics & Communication Engineering**  
 _GMR Institute of Technology, Rajam (JNTU-GV)_  
@@ -79,15 +52,7 @@ _CGPA: 9.27 | Graduation: May 2026_
 
 ---
 
-<!-- 🪩 Shimmer gradient divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12&section=header"/>
-</p>
-
-<!-- Animated Typing SVG for Section Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=2F85ED&center=true&width=800&lines=Featured+Projects" alt="Typing SVG" />
-</p>
+# 💡 Projects
 
 - **High-Speed 8x8 Radix-4 Booth Multiplier:**  
   - Booth recoding & CLA integration for speed optimization
@@ -98,15 +63,7 @@ _CGPA: 9.27 | Graduation: May 2026_
 
 ---
 
-<!-- 🪩 Shimmer gradient divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12&section=header"/>
-</p>
-
-<!-- Animated Typing SVG for Section Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=2F85ED&center=true&width=800&lines=Certifications" alt="Typing SVG" />
-</p>
+# 📰 Certifications and Achievements
 
 
 - **Cadence Analog IC Design Flow**  
@@ -118,15 +75,7 @@ _CGPA: 9.27 | Graduation: May 2026_
 
 ---
 
-<!-- 🪩 Shimmer gradient divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12&section=header"/>
-</p>
-
-<!-- Animated Typing SVG for Section Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=2F85ED&center=true&width=800&lines=Languages" alt="Typing SVG" />
-</p>
+# 🧑‍⚖️ Languages
 
 
 ![English](https://img.shields.io/badge/English-Professional-2F85ED?style=for-the-badge)
